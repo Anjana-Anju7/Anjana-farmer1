@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url('/assets/img/agriculture.jpg');
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    margin-bottom: 0px;
+  }
+  
